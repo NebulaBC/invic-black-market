@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # invic-black-market
 ### A home for all Invictable contraband
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AZh7ZDrzawo/0.jpg)](https://www.youtube.com/embed/AZh7ZDrzawo)
